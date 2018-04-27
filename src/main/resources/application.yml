@@ -1,0 +1,10 @@
+server:
+   port: ${appPort:8081}
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://10.51.58.242:8761/eureka/
+  instance:
+    hostname: 10.51.58.242
+    nonSecurePort: ${appPort:8081}

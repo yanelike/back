@@ -1,0 +1,7 @@
+2018-04-26 12:13:26,835 INFO  (hystrix-UserController-1) UserController:30- /elkdemo - &gt; obteniendo usuarios 8081
+2018-04-26 12:13:26,837 INFO  (hystrix-UserController-1) UserController:31- /elkdemo - &gt; ejemplo
+2018-04-26 12:13:35,977 INFO  (hystrix-UserController-2) UserController:30- /elkdemo - &gt; obteniendo usuarios 8081
+2018-04-26 12:13:35,978 INFO  (hystrix-UserController-2) UserController:31- /elkdemo - &gt; ejemplo
+2018-04-26 12:13:36,114 ERROR (hystrix-UserController-3) UserController:46- /elkdemo - &error; El servicio se encuentra no disponible. Inténtelo más tarde
+2018-04-26 12:13:36,137 INFO  (hystrix-EmployeeController-1) EmployeeController:33- Empleados mexicanos
+2018-04-26 12:13:36,149 INFO  (hystrix-EmployeeController-2) EmployeeController:40- Empleados españoles
