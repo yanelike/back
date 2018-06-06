@@ -1,11 +1,17 @@
 package com.bz.spring.springcloud.backend.service.dto;
 
-public class UserDto {
 
+import io.swagger.annotations.ApiModelProperty;
+
+public class UserDto {
+	
+	@ApiModelProperty(value="", required=true, example="1", position=1)
     private String id;
 
+	@ApiModelProperty(value="", required=false, example="Yanely", position=6)
     private String name;
-
+    
+    @ApiModelProperty(value="", required=false, example="yanelike", position=8)
     private String surname;
 
     public UserDto(){

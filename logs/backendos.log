@@ -5,3 +5,5 @@
 2018-04-26 12:13:36,114 ERROR (hystrix-UserController-3) UserController:46- /elkdemo - &error; El servicio se encuentra no disponible. Inténtelo más tarde
 2018-04-26 12:13:36,137 INFO  (hystrix-EmployeeController-1) EmployeeController:33- Empleados mexicanos
 2018-04-26 12:13:36,149 INFO  (hystrix-EmployeeController-2) EmployeeController:40- Empleados españoles
+2018-06-06 10:16:45,041 INFO  (http-nio-8081-exec-9) EmployeeController:29- Obteniendo empleados
+2018-06-06 11:55:21,771 INFO  (http-nio-8081-exec-10) EmployeeController:39- Obteniendo empleados
