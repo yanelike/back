@@ -7,3 +7,137 @@
 2018-04-26 12:13:36,149 INFO  (hystrix-EmployeeController-2) EmployeeController:40- Empleados españoles
 2018-06-06 10:16:45,041 INFO  (http-nio-8081-exec-9) EmployeeController:29- Obteniendo empleados
 2018-06-06 11:55:21,771 INFO  (http-nio-8081-exec-10) EmployeeController:39- Obteniendo empleados
+2018-06-07 11:53:51,414 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-07 19:06:47,632 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-07 19:09:11,910 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-07 19:16:45,956 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-08 09:09:03,471 INFO  (http-nio-8081-exec-3) EmployeeController:41- Obteniendo empleados
+2018-06-08 09:17:44,038 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-08 09:17:54,459 INFO  (http-nio-8081-exec-2) EmployeeController:41- Obteniendo empleados
+2018-06-08 09:17:57,511 INFO  (http-nio-8081-exec-3) EmployeeController:41- Obteniendo empleados
+2018-06-08 09:20:55,345 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-08 09:21:07,468 INFO  (http-nio-8081-exec-2) EmployeeController:41- Obteniendo empleados
+2018-06-08 09:22:20,247 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-08 09:22:28,474 INFO  (http-nio-8081-exec-2) EmployeeController:41- Obteniendo empleados
+2018-06-08 09:23:34,997 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-08 09:33:18,064 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-08 09:33:20,662 INFO  (http-nio-8081-exec-2) EmployeeController:41- Obteniendo empleados
+2018-06-08 09:47:05,671 INFO  (http-nio-8081-exec-2) EmployeeController:41- Obteniendo empleados
+2018-06-08 09:49:16,567 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-08 10:05:18,602 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-08 10:05:20,993 INFO  (http-nio-8081-exec-2) EmployeeController:41- Obteniendo empleados
+2018-06-08 11:04:30,373 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-08 11:04:45,396 INFO  (http-nio-8081-exec-2) EmployeeController:41- Obteniendo empleados
+2018-06-08 11:12:31,713 INFO  (http-nio-8081-exec-4) EmployeeController:41- Obteniendo empleados
+2018-06-08 11:23:09,426 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-08 11:23:15,302 INFO  (http-nio-8081-exec-2) EmployeeController:41- Obteniendo empleados
+2018-06-08 11:23:21,154 INFO  (http-nio-8081-exec-3) EmployeeController:41- Obteniendo empleados
+2018-06-08 11:30:49,240 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-08 11:30:54,589 INFO  (http-nio-8081-exec-2) EmployeeController:41- Obteniendo empleados
+2018-06-08 11:30:56,389 INFO  (http-nio-8081-exec-3) EmployeeController:41- Obteniendo empleados
+2018-06-08 11:30:57,793 INFO  (http-nio-8081-exec-4) EmployeeController:41- Obteniendo empleados
+2018-06-08 11:30:59,660 INFO  (http-nio-8081-exec-6) EmployeeController:41- Obteniendo empleados
+2018-06-08 11:31:19,237 INFO  (http-nio-8081-exec-8) EmployeeController:41- Obteniendo empleados
+2018-06-08 11:31:43,058 INFO  (http-nio-8081-exec-10) EmployeeController:41- Obteniendo empleados
+2018-06-08 11:40:08,195 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-08 11:40:11,064 INFO  (http-nio-8081-exec-2) EmployeeController:41- Obteniendo empleados
+2018-06-08 11:42:30,306 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-08 11:42:33,284 INFO  (http-nio-8081-exec-2) EmployeeController:41- Obteniendo empleados
+2018-06-08 11:52:19,782 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-08 11:52:23,292 INFO  (http-nio-8081-exec-2) EmployeeController:41- Obteniendo empleados
+2018-06-08 11:52:25,402 INFO  (http-nio-8081-exec-3) EmployeeController:41- Obteniendo empleados
+2018-06-08 11:52:27,253 INFO  (http-nio-8081-exec-4) EmployeeController:41- Obteniendo empleados
+2018-06-08 12:04:56,058 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-08 12:05:04,239 INFO  (http-nio-8081-exec-2) EmployeeController:41- Obteniendo empleados
+2018-06-08 12:05:07,253 INFO  (http-nio-8081-exec-4) EmployeeController:41- Obteniendo empleados
+2018-06-08 12:05:37,580 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-08 12:05:41,686 INFO  (http-nio-8081-exec-2) EmployeeController:41- Obteniendo empleados
+2018-06-08 12:05:43,474 INFO  (http-nio-8081-exec-3) EmployeeController:41- Obteniendo empleados
+2018-06-08 12:06:24,985 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-08 12:06:28,173 INFO  (http-nio-8081-exec-2) EmployeeController:41- Obteniendo empleados
+2018-06-08 12:07:49,182 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-08 12:07:51,586 INFO  (http-nio-8081-exec-2) EmployeeController:41- Obteniendo empleados
+2018-06-08 12:07:53,308 INFO  (http-nio-8081-exec-3) EmployeeController:41- Obteniendo empleados
+2018-06-08 12:07:54,965 INFO  (http-nio-8081-exec-4) EmployeeController:41- Obteniendo empleados
+2018-06-08 12:10:48,831 INFO  (http-nio-8081-exec-1) EmployeeController:41- Obteniendo empleados
+2018-06-08 12:10:51,218 INFO  (http-nio-8081-exec-2) EmployeeController:41- Obteniendo empleados
+2018-06-08 12:10:52,793 INFO  (http-nio-8081-exec-3) EmployeeController:41- Obteniendo empleados
+2018-06-08 12:15:02,617 INFO  (http-nio-8081-exec-1) EmployeeController:42- Obteniendo empleados
+2018-06-08 12:15:07,414 INFO  (http-nio-8081-exec-2) EmployeeController:42- Obteniendo empleados
+2018-06-08 12:21:23,928 INFO  (http-nio-8081-exec-1) EmployeeController:42- Obteniendo empleados
+2018-06-08 12:30:13,390 INFO  (http-nio-8081-exec-1) EmployeeController:42- Obteniendo empleados
+2018-06-08 12:30:16,750 INFO  (http-nio-8081-exec-2) EmployeeController:42- Obteniendo empleados
+2018-06-08 12:34:23,755 INFO  (http-nio-8081-exec-1) EmployeeController:42- Obteniendo empleados
+2018-06-08 12:34:28,650 INFO  (http-nio-8081-exec-2) EmployeeController:42- Obteniendo empleados
+2018-06-08 12:46:47,305 INFO  (http-nio-8081-exec-1) UserAccessAspect:43- {} {} from {}GET/v1/employees/10:0:0:0:0:0:0:1null
+2018-06-08 12:46:51,450 INFO  (http-nio-8081-exec-2) UserAccessAspect:43- {} {} from {}GET/v1/employees/10:0:0:0:0:0:0:1null
+2018-06-08 12:46:53,004 INFO  (http-nio-8081-exec-3) UserAccessAspect:43- {} {} from {}GET/v1/employees/10:0:0:0:0:0:0:1null
+2018-06-08 12:46:54,043 INFO  (http-nio-8081-exec-4) UserAccessAspect:43- {} {} from {}GET/v1/employees/10:0:0:0:0:0:0:1null
+2018-06-08 12:46:55,776 INFO  (http-nio-8081-exec-5) UserAccessAspect:43- {} {} from {}GET/v1/employees/10:0:0:0:0:0:0:1null
+2018-06-08 13:04:11,106 INFO  (http-nio-8081-exec-1) UserAccessAspect:44- --> null
+2018-06-08 13:05:06,333 INFO  (http-nio-8081-exec-1) UserAccessAspect:44- --> null
+2018-06-08 13:07:12,327 INFO  (http-nio-8081-exec-1) UserAccessAspect:42- --> null
+2018-06-08 13:09:38,911 INFO  (http-nio-8081-exec-1) UserAccessAspect:43- --> null
+2018-06-08 13:09:38,920 INFO  (http-nio-8081-exec-1) UserAccessAspect:32- --> None
+2018-06-08 13:09:42,623 INFO  (http-nio-8081-exec-2) UserAccessAspect:43- --> null
+2018-06-08 13:09:42,623 INFO  (http-nio-8081-exec-2) UserAccessAspect:32- --> None
+2018-06-08 13:09:45,486 INFO  (http-nio-8081-exec-3) UserAccessAspect:43- --> null
+2018-06-08 13:09:45,486 INFO  (http-nio-8081-exec-3) UserAccessAspect:32- --> None
+2018-06-08 13:09:50,115 INFO  (http-nio-8081-exec-5) UserAccessAspect:43- --> null
+2018-06-08 13:09:50,116 INFO  (http-nio-8081-exec-5) UserAccessAspect:32- --> None
+2018-06-11 13:31:00,277 INFO  (http-nio-8081-exec-1) UserAccessAspect:34- Headernull
+2018-06-11 13:31:08,305 INFO  (http-nio-8081-exec-2) UserAccessAspect:34- Headernull
+2018-06-11 13:31:15,367 INFO  (http-nio-8081-exec-4) UserAccessAspect:34- Headernull
+2018-06-11 13:34:05,926 INFO  (http-nio-8081-exec-7) UserAccessAspect:34- Header123
+2018-06-11 13:34:27,778 INFO  (http-nio-8081-exec-8) UserAccessAspect:34- Header123
+2018-06-11 13:34:47,536 INFO  (http-nio-8081-exec-9) UserAccessAspect:34- Headeradmin
+2018-06-11 13:34:47,543 INFO  (http-nio-8081-exec-9) EmployeeController:44- Obteniendo empleados
+2018-06-11 13:34:48,757 INFO  (http-nio-8081-exec-10) UserAccessAspect:34- Headeradmin
+2018-06-11 13:34:48,758 INFO  (http-nio-8081-exec-10) EmployeeController:44- Obteniendo empleados
+2018-06-11 13:34:49,695 INFO  (http-nio-8081-exec-1) UserAccessAspect:34- Headeradmin
+2018-06-11 13:34:49,695 INFO  (http-nio-8081-exec-1) EmployeeController:44- Obteniendo empleados
+2018-06-11 13:37:21,763 INFO  (http-nio-8081-exec-1) UserAccessAspect:34- Headeradmin
+2018-06-11 13:37:30,534 INFO  (http-nio-8081-exec-2) UserAccessAspect:34- Header7a19b1be4a292c30Like
+2018-06-11 13:37:30,542 INFO  (http-nio-8081-exec-2) EmployeeController:44- Obteniendo empleados
+2018-06-11 13:38:32,658 INFO  (http-nio-8081-exec-1) UserAccessAspect:34- Header250192010292Like
+2018-06-11 13:38:32,684 INFO  (http-nio-8081-exec-1) EmployeeController:44- Obteniendo empleados
+2018-06-11 13:38:34,493 INFO  (http-nio-8081-exec-2) UserAccessAspect:34- Header250192010292Like
+2018-06-11 13:38:34,494 INFO  (http-nio-8081-exec-2) EmployeeController:44- Obteniendo empleados
+2018-06-11 13:38:39,528 INFO  (http-nio-8081-exec-3) UserAccessAspect:34- Header250192010292Like1
+2018-06-11 13:38:41,002 INFO  (http-nio-8081-exec-4) UserAccessAspect:34- Header250192010292Like1
+2018-06-11 13:38:42,361 INFO  (http-nio-8081-exec-5) UserAccessAspect:34- Header250192010292Like1
+2018-06-11 13:38:46,712 INFO  (http-nio-8081-exec-6) UserAccessAspect:34- Header250192010292Like
+2018-06-11 13:38:46,713 INFO  (http-nio-8081-exec-6) EmployeeController:44- Obteniendo empleados
+2018-06-11 13:38:47,470 INFO  (http-nio-8081-exec-7) UserAccessAspect:34- Header250192010292Like
+2018-06-11 13:38:47,470 INFO  (http-nio-8081-exec-7) EmployeeController:44- Obteniendo empleados
+2018-06-11 13:39:21,949 INFO  (http-nio-8081-exec-9) UserAccessAspect:34- Header250192010292Like
+2018-06-11 13:39:21,961 INFO  (http-nio-8081-exec-9) EmployeeController:44- Obteniendo empleados
+2018-06-11 13:39:22,670 INFO  (http-nio-8081-exec-10) UserAccessAspect:34- Header250192010292Like
+2018-06-11 13:39:22,670 INFO  (http-nio-8081-exec-10) EmployeeController:44- Obteniendo empleados
+2018-06-11 13:39:23,273 INFO  (http-nio-8081-exec-1) UserAccessAspect:34- Header250192010292Like
+2018-06-11 13:39:23,274 INFO  (http-nio-8081-exec-1) EmployeeController:44- Obteniendo empleados
+2018-06-11 13:45:51,949 INFO  (http-nio-8081-exec-2) UserAccessAspect:34- Headernull
+2018-06-11 13:45:54,360 INFO  (http-nio-8081-exec-3) UserAccessAspect:34- Headernull
+2018-06-11 13:45:56,674 INFO  (http-nio-8081-exec-4) UserAccessAspect:34- Headernull
+2018-06-11 13:46:01,522 INFO  (http-nio-8081-exec-5) UserAccessAspect:34- Headernull
+2018-06-11 13:46:05,244 INFO  (http-nio-8081-exec-6) UserAccessAspect:34- Header250192010292Like
+2018-06-11 13:46:06,468 INFO  (http-nio-8081-exec-7) UserAccessAspect:34- Header250192010292Like
+2018-06-11 13:46:07,028 INFO  (http-nio-8081-exec-8) UserAccessAspect:34- Header250192010292Like
+2018-06-11 13:46:49,172 INFO  (http-nio-8081-exec-1) UserAccessAspect:34- Headernull
+2018-06-11 13:47:04,142 INFO  (http-nio-8081-exec-2) UserAccessAspect:34- Header250192010292Like
+2018-06-11 13:47:05,944 INFO  (http-nio-8081-exec-3) UserAccessAspect:34- Header250192010292Like
+2018-06-11 13:49:09,455 INFO  (http-nio-8081-exec-1) UserAccessAspect:34- Header [null]
+2018-06-11 13:49:13,019 INFO  (http-nio-8081-exec-2) UserAccessAspect:34- Header [250192010292Like]
+2018-06-11 13:49:14,945 INFO  (http-nio-8081-exec-3) UserAccessAspect:34- Header [250192010292Like]
+2018-06-11 13:49:16,404 INFO  (http-nio-8081-exec-4) UserAccessAspect:34- Header [250192010292Like]
+2018-06-11 13:49:55,861 INFO  (http-nio-8081-exec-6) UserAccessAspect:34- Header [250192010292Like]
+2018-06-11 13:49:56,914 INFO  (http-nio-8081-exec-7) UserAccessAspect:34- Header [250192010292Like]
+2018-06-11 13:52:34,774 INFO  (http-nio-8081-exec-10) UserAccessAspect:34- Header [null]
+2018-06-11 13:52:55,838 INFO  (http-nio-8081-exec-2) UserAccessAspect:34- Header [null]
+2018-06-11 13:53:36,521 INFO  (http-nio-8081-exec-4) UserAccessAspect:34- Header [null]
+2018-06-11 14:17:45,926 INFO  (http-nio-8081-exec-6) UserAccessAspect:34- Header [250192010292Like]
+2018-06-11 14:17:46,708 INFO  (http-nio-8081-exec-7) UserAccessAspect:34- Header [250192010292Like]
+2018-06-11 14:17:47,461 INFO  (http-nio-8081-exec-8) UserAccessAspect:34- Header [250192010292Like]
+2018-06-11 14:17:52,413 INFO  (http-nio-8081-exec-9) UserAccessAspect:34- Header [250192010292Like]
+2018-06-11 14:17:53,216 INFO  (http-nio-8081-exec-10) UserAccessAspect:34- Header [250192010292Like]
+2018-06-11 17:16:25,333 INFO  (http-nio-8081-exec-5) UserAccessAspect:34- Header [null]

@@ -54,6 +54,9 @@ dependencies {
 	compile('org.springframework.boot:spring-boot-starter-actuator')
 	compile('org.springframework.boot:spring-boot-starter-jersey')
     compile group: 'log4j', name: 'apache-log4j-extras', version: '1.1'
+    compile group: 'log4j', name: 'log4j', version: '1.2.17'
+    compile group: 'org.aspectj', name: 'aspectjtools' 
+    compile group: 'org.aspectj', name: 'aspectjrt' 
 }
 configurations.all {
     //exclude group: "org.slf4j"
