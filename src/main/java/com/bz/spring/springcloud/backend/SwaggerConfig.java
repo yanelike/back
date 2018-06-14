@@ -43,12 +43,11 @@ public class SwaggerConfig extends WebMvcConfigurationSupport {
     @Bean
     public Docket api() { 
     	
-    	ParameterBuilder aParameterBuilder = new ParameterBuilder();
-        aParameterBuilder.name("X-3scale-proxy-secret-token").modelRef(new ModelRef("string")).parameterType("header").defaultValue("250192010292Like").build();
-        
-        
+    	//ParameterBuilder aParameterBuilder = new ParameterBuilder();
+        //aParameterBuilder.name("X-3scale-proxy-secret-token").modelRef(new ModelRef("string")).parameterType("header").defaultValue("250192010292Like").build();
+ 
         List<Parameter> aParameters = new ArrayList<Parameter>();
-        aParameters.add(aParameterBuilder.build());
+        //aParameters.add(aParameterBuilder.build());
         aParameters.add(new ParameterBuilder().name("Authorization").description("Bearer Token").modelRef(new ModelRef("string")).parameterType("header").required(false).defaultValue("Bearer Token XXXX").build());
         
         
