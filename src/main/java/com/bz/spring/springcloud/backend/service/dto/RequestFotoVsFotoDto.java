@@ -64,23 +64,4 @@ public class RequestFotoVsFotoDto {
 	public void setFoto2(String foto2) {
 		this.foto2 = foto2;
 	}
-
-	/*
-	 * (non-Javadoc)
-	 * 
-	 * @see java.lang.Object#toString()
-	 */
-	@Override
-	public String toString() {
-		StringBuilder builder = new StringBuilder();
-		builder.append("RequestFotoVsFotoDto [operacion=");
-		builder.append(operacion);
-		builder.append(", foto1=");
-		builder.append(foto1);
-		builder.append(", foto2=");
-		builder.append(foto2);
-		builder.append("]");
-		return builder.toString();
-	}
-
 }
