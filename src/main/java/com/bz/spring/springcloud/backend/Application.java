@@ -17,6 +17,7 @@ public class Application {
 
     public Application(){
         //For Spring
+    	
     }
 
     public static void main(String[] args) {
