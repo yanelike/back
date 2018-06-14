@@ -1,0 +1,3 @@
+server:
+   port: ${appPort:8081}
+
