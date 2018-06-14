@@ -85,7 +85,7 @@ public class SwaggerConfig extends WebMvcConfigurationSupport {
 				.title("RedPacketServer-API Swagger Documentation")
 				.description("RedPacketServer-API Swagger Documentation")
 				.termsOfServiceUrl("http://liudonghua.com")
-				.contact(new Contact("liudonghua", "liudonghua.com", "liudonghua123@gmail.com"))
+				.contact(new Contact("liudonghua", "yanelike.com", "liudonghua123@gmail.com"))
 				.license("Apache License Version 2.0")
 				.licenseUrl("https://www.apache.org/licenses/LICENSE-2.0")
 				.version("1.1")
